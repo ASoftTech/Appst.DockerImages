@@ -1,3 +1,7 @@
+# Originaly derived from
+# https://github.com/aspnet/aspnet-docker/tree/master/1.0.0-rc1-update1
+# https://hub.docker.com/r/microsoft/aspnet/
+
 # Build with
 # docker build -t asofttech/rpi-raspbian-aspnet-mono:4.2.2.30 .
 

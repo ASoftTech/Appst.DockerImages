@@ -1,6 +1,7 @@
 # Note currently this doesn't work
 # There's no precompiled coreclr binaries for Rpi at this stage
 # Eventually dnx is being replaced for a different app anyway, for now use the mono image instead
+# https://github.com/aspnet/aspnet-docker/blob/master/1.0.0-rc1-update1-coreclr
 
 # Build with
 # docker build -t asofttech/rpi-raspbian-aspnet-coreclr:v1 .
